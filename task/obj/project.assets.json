@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Insignia PC\\source\\repos\\task\\task\\task.csproj",
+      "projectUniqueName": "C:\\Users\\Insignia PC\\source\\repos\\IBS-Work\\1st-Week-Task\\task\\task.csproj",
       "projectName": "task",
-      "projectPath": "C:\\Users\\Insignia PC\\source\\repos\\task\\task\\task.csproj",
+      "projectPath": "C:\\Users\\Insignia PC\\source\\repos\\IBS-Work\\1st-Week-Task\\task\\task.csproj",
       "packagesPath": "C:\\Users\\Insignia PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Insignia PC\\source\\repos\\task\\task\\obj\\",
+      "outputPath": "C:\\Users\\Insignia PC\\source\\repos\\IBS-Work\\1st-Week-Task\\task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Insignia PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
